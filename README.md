@@ -10,7 +10,7 @@ https://wiki.octave.org/Octave_for_macOS
 Download with :
 
 ```
-git clone https://github.com/n-warb/machine_learning_ex1.git
+git clone https://github.com/n-warb/machine_learning_ex2.git
 ```
 
 Run Octave:
